@@ -1,0 +1,13 @@
+body{
+background-color:lightgrey;
+}
+div{
+width:500px;
+margin:auto;
+}
+blockquote{
+border:1px solid white;
+margin-left:0px;
+text-align:center; 
+}
+
